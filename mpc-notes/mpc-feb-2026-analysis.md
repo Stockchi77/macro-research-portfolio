@@ -1,4 +1,3 @@
-[mpc-feb-2026-analysis.md](https://github.com/user-attachments/files/25854416/mpc-feb-2026-analysis.md)
 # Bank of England MPC Minutes Analysis — February 2026
 
 **Meeting date:** 4 February 2026  
