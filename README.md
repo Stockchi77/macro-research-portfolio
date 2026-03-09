@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25854438/README.md)
 # Macro Research Portfolio
 
 Finance professional with background in equity markets and macro-financial analysis, including experience at the Bank of England. This repo documents my ongoing research into monetary policy, labour markets, and macro trends.
