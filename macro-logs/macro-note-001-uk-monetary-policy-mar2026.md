@@ -93,7 +93,7 @@ The MPC will not have February CPI data on 19 March. Making a policy move withou
 - 19 March: Hold, monitor energy prices and geopolitical developments
 - 25 March: February CPI released
 - Mid-April: March CPI released — first partial reflection of the shock
-- 7 May MPC: First meeting with sufficient data to make an informed decision
+- 30 April MPC: First meeting with sufficient data to make an informed decision
 
 **Asymmetric risk argument:**
 If the MPC cuts now and the energy shock proves persistent, BoE credibility would be seriously damaged — reversing course would be costly. If they hold and the shock proves temporary, the cost is simply a delay of one to two months in easing. The downside of cutting too early significantly outweighs the downside of waiting.
